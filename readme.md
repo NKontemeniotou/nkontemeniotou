@@ -72,9 +72,9 @@ I’m currently looking to transition into a more **dedicated Data Analyst role*
 
 ## 📫 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/nefeli-kontemeniotou/]
-- Email: [nkontemeniotou@gmail.com]
-- GitHub: [https://github.com/NKontemeniotou/]
+- LinkedIn: https://www.linkedin.com/in/nefeli-kontemeniotou/
+- Email: nkontemeniotou@gmail.com
+- GitHub: https://github.com/NKontemeniotou/
 
 ---
 
