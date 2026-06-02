@@ -1,6 +1,6 @@
 # Hi, I'm Nefeli Kontemeniotou 👋
 
-🎯 Data Analyst | Financial Data Specialist | Based in Nicosia, Cyprus
+🎯 Implementation Engineer / Data Analyst | Financial Data Specialist | Based in Nicosia, Cyprus
 
 I currently work at **Rimes**, where I focus on data quality, financial data processing, and supporting data-driven solutions for institutional clients. I’m passionate about turning complex datasets into clear, actionable insights.
 
