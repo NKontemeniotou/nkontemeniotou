@@ -38,10 +38,9 @@ I currently work at **Rimes**, where I focus on data quality, financial data pro
 
 Here are some things I’m currently working on or have built:
 
-- 📊 Sales/Data Dashboard (Power BI / Tableau / Python)
 - 🧹 Data Cleaning Automation Scripts (Python)
 - 📈 Exploratory Data Analysis Projects (Python notebooks)
-- 🗃️ SQL Query Portfolio (business-style datasets)
+- 🗃️ SQL Query  (business-style datasets)
 
 > More projects coming soon as I continue building my portfolio.
 
@@ -49,7 +48,7 @@ Here are some things I’m currently working on or have built:
 
 ## 🏢 Experience
 
-**Data Analyst / Data Operations**  
+*Implementation Engineer**  
 Rimes (Nicosia, Cyprus)  
 *Current*
 
